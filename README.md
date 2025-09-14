@@ -1,0 +1,2 @@
+# Warning-road-landslide-by-analyzing-multi-sensor-network-data-based-on-the-Kmeans-algorithm
+the essential location dataset is analyzed using a K-means algorithm to detect data clusters with abnormal conditions that may lead to landslide hazards. The feasibility study results of measurement dataset synthesis and data clustering in initial experiments demonstrated the effectiveness of the proposed method
